@@ -17,6 +17,8 @@ Original Standard is DIN 700 (renamed later as 40700) to define a set of unique 
 
 40700 has been replaced arround 1980 by DIN 40900. Most notable the round shapes have been replaced by boxes.
 
+DIN 40700 has been replaced by EN 60617 
+
   * DIN 40700
     * [logic symbols](https://commons.wikimedia.org/wiki/Category:DIN_40700)
     * [circuit symbols](https://commons.wikimedia.org/wiki/Category:DIN_circuit_symbols)
@@ -27,4 +29,5 @@ Original Standard is DIN 700 (renamed later as 40700) to define a set of unique 
 ## ГОСТ (GOST)
 
  * [ГОСТ 2.743—91](http://gostexpert.ru/gost/getDoc/3720)
+ * (http://www.znaytovar.ru/gost/1/GOST_274391.html - Russian )
 
